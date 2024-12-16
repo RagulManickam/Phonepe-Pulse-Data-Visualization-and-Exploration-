@@ -84,6 +84,7 @@ Filter and process the collected data depending on the given requirements by usi
 Finally, create a Dashboard by using Streamlit and applying selection and dropdown options on the Dashboard and show the output are Geo visualization, bar chart, and Dataframe Table
 
 **USER GUIDE**
+
 **Step 1.**
 
 Select any one option fron All India or State wise or Top Ten categories.
